@@ -9,16 +9,8 @@ p align="center">
 </p>
 <p align="center">
 <img alt="" align="right" src="https://badges.pufler.dev/visits/AsukaDev-Official/TypingSpeed?style=flat-square&label=Visits&color=fa74b2&logo=GitHub&logoColor=white&labelColor=373e4d"/> <img alt="" align="right" src="https://img.shields.io/github/repo-size/AsukaDev-Official/TypingSpeed?style=flat-square&label=Size&color=fa74b2&labelColor=373e4d"/>
-<img src="https://github.com/Yayan-XD/mbf-2/blob/main/Ngentod/wallpaperbetter_(1).jpg" width="640" title="Menu" alt="Menu">
+
 </p>
- <a href="https://github.com/Yayan-XD/mbf-2">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/mbf-2.svg"/>
-  </a>
-
- <a href="https://github.com/Yayan-XD/mbf-2">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/mbf-2.svg"/>
-  </a>
-
 <a href="https://github.com/AsukaDev-Official/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/AsukaDev-Official?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/AsukaDev-Official/TypingSpeed/stargazers/">
