@@ -4,13 +4,6 @@ test your typing speed
 # Info
 
 <p align="center">
-</p>
-<p align="center">
-<img alt="" align="right" src="https://badges.pufler.dev/visits/AsukaDev-Official/TypingSpeed?style=flat-square&label=Visits&color=fa74b2&logo=GitHub&logoColor=white&labelColor=373e4d"/> <img alt="" align="right" src="https://img.shields.io/github/repo-size/AsukaDev-Official/TypingSpeed?style=flat-square&label=Size&color=fa74b2&labelColor=373e4d"/>
-
-<img alt="" align="right" src="https://img.shields.io/github/repo-size/AsukaDev-Official/TypingSpeed?style=flat-square&label=Size&color=fa74b2&labelColor=373e4d"/>
-</p>
-
 
  <a href="https://github.com/AsukaDev-Official">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/AsukaDev-Official/TypingSpeed.svg"/>
