@@ -1,6 +1,6 @@
 # TypingSpeed
 test your typing speed
-
+[![Watch the video](https://github.com/AsukaDev-Official/TypingSpeed/blob/main/Screenshot_20210312-142959444.jpg)](https://github.com/AsukaDev-Official/TypingSpeed/blob/main/20210312_141235.mp4)
 # Info
 
 <p align="center">
