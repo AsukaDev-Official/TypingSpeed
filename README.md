@@ -29,9 +29,6 @@ p align="center">
     <img alt="Language" src="https://img.shields.io/github/languages/count/AsukaDev-Official/TypingSpeed.svg"/>
   </a>
   <a href="https://github.com/AsukaDev-Official">
-    <img alt="Search" src="https://img.shields.io/github/search/AsukaDev/TypingSpeed.svg"/>
-  </a>
-  <a href="https://github.com/AsukaDev-Official">
     <img alt="Starts" src="https://img.shields.io/github/stars/AsukaDev-Official/TypingSpeed.svg"/>
   </a>
   <a href="https://github.com/AsukaDev-Official">
