@@ -26,11 +26,10 @@ test your typing speed
 </div>
 </p>
 ### :octocat: Hi, thanks for spending your time visiting this repository !
-
+<p>
 This is a test typing speed test program
-
-
-### Installation
+</p>
+# Installation
 
   <details open>
   <summary>Termux (Android) / Linux</summary>
