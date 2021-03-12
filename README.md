@@ -32,26 +32,25 @@ This is a test typing speed test program
 
 
 # Installation
+<details open>
+<summary>Termux (Android) / Linux</summary>
 
-  <details open>
-  <summary>Termux (Android) / Linux</summary>
+- ```bash
+  $ apt update && apt upgrade
+  ```
 
-  - ```bash
-    $ apt update && apt upgrade
-    ```
+- ```bash
+  $ apt install python git -y
+  ```
 
-  - ```bash
-    $ apt install python git -y
-    ```
+- ```bash
+  $ git clone https://github.com/AsukaDev-Official/TypingSpeed
+  ```
 
-  - ```bash
-    $ git clone https://github.com/AsukaDev-Official/TypingSpeed
-    ```
+- ```bash
+  $ cd TypingSpeed
+  ```
 
-  - ```bash
-    $ cd TypingSpeed
-    ```
-
-  - ```bash
-    $ python3 test.py
-    ```
+- ```bash
+  $ python3 test.py
+  ```
