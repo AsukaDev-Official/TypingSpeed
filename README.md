@@ -29,6 +29,8 @@ test your typing speed
 <p>
 This is a test typing speed test program
 </p>
+
+
 # Installation
 
   <details open>
