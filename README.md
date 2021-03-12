@@ -3,9 +3,6 @@ test your typing speed
 
 
 <p align="center">
-  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="xshin404/myTermux" height="60%" width="100%" src="/assets/images/banner/banner.jpg"/>
-  </a>
 </p>
 <p align="center">
 <img alt="" align="right" src="https://badges.pufler.dev/visits/AsukaDev-Official/TypingSpeed?style=flat-square&label=Visits&color=fa74b2&logo=GitHub&logoColor=white&labelColor=373e4d"/> <img alt="" align="right" src="https://img.shields.io/github/repo-size/AsukaDev-Official/TypingSpeed?style=flat-square&label=Size&color=fa74b2&labelColor=373e4d"/>
