@@ -1,6 +1,10 @@
 # TypingSpeed
 test your typing speed
-[![Watch the video](https://github.com/AsukaDev-Official/TypingSpeed/blob/main/20210312_141235.mp4)] 
+<p align="center">
+  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
+     <img alt="AsukaDev-Official/TypingSpeed" height="60%" width="100%" src="Screenshot_20210312-142959444.jpg"/>
+  </a>
+</p>
 # Info
 
 <p align="center">
